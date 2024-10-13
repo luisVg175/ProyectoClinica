@@ -63,7 +63,7 @@
                                 </div>
 
                                 <div class="pt-1 mb-4">
-                                    <button class="btn btn-info btn-lg btn-block" type="button" href="#">Ingresar</button>
+                                    <button class="btn btn-info btn-lg btn-block" type="button"><a href="admin.jsp" style="color: white">Ingresar</a></button>
                                 </div>
 
                                 <p class="small mb-5 pb-lg-2"><a class="text-muted" href="#!">Recuperar contraseña?</a></p>

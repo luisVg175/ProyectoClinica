@@ -1,48 +1,87 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Docmed</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title> Nuestra Señora de la Paz</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    <!-- Place favicon.ico in the root directory -->
+        <!-- <link rel="manifest" href="site.webmanifest"> -->
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+        <!-- Place favicon.ico in the root directory -->
 
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/gijgo.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/slicknav.css">
-    <link rel="stylesheet" href="css/style.css">
-    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
-</head>
+        <!-- CSS here -->
 
-<body>
-    <div class="bradcam_area breadcam_bg bradcam_overlay">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="bradcam_text">
-                        <h3>Servicios</h3>
-                        <p><a href="index.html">inicio /</a> Servicios</p>
+        <link rel="stylesheet" href="css/bootstrap.min.css"> 
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/themify-icons.css">
+        <link rel="stylesheet" href="css/nice-select.css">
+        <link rel="stylesheet" href="css/flaticon.css">
+        <link rel="stylesheet" href="css/gijgo.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/slicknav.css">
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    </head>
+
+    <body>
+        <div class="slider_area">
+            <div class="slider_active owl-carousel">
+                <div class="single_slider  d-flex align-items-center slider_bg_2">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="slider_text ">
+                                    <h3> <span>Cuidados De La Salud</span> <br>
+                                        Para la Familia </h3>
+                                    <p>En el sector de la salud, la excelencia en el servicio es la facilidad del <br>
+                                        Hospital como el proveedor para los servicios de atencion medica.</p>
+                                    <a href="#" class="boxed-btn3">Revisa Nuestros Servicios</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="single_slider  d-flex align-items-center slider_bg_1">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="slider_text ">
+                                    <h3> <span>Cuidados De La Salud</span> <br>
+                                        Para la Familia </h3>
+                                    <p>En el sector de la salud, la excelencia en el servicio es la facilidad del <br>
+                                        Hospital como el proveedor para los servicios de atencion medica.</p>
+                                    <a href="#" class="boxed-btn3">Revisa Nuestros Servicios</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="single_slider  d-flex align-items-center slider_bg_2">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="slider_text ">
+                                    <h3> <span>Cuidados De La Salud</span> <br>
+                                        Para la Familia </h3>
+                                    <p>En el sector de la salud, la excelencia en el servicio es la facilidad del <br>
+                                        Hospital como el proveedor para los servicios de atencion medica.</p>
+                                    <a href="#" class="boxed-btn3">Revisa Nuestros Servicios</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- bradcam_area_end  -->
+        <!-- slider_area_end -->
 
-    <!-- service_area_start -->
+        <!-- service_area_start -->
         <div class="service_area">
             <div class="container p-0">
                 <div class="row no-gutters">
@@ -79,9 +118,43 @@
                 </div>
             </div>
         </div>
-    <!-- service_area_end -->
+        <!-- service_area_end -->
 
-    <!-- offers_area_start -->
+        <!-- welcome_docmed_area_start -->
+        <div class="welcome_docmed_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="welcome_thumb">
+                            <div class="thumb_1">
+                                <img src="img/about/1.png" alt="">
+                            </div>
+                            <div class="thumb_2">
+                                <img src="img/about/2.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="welcome_docmed_info">
+                            <h2>Bienvenido a Nuestra Señora de la Paz</h2>
+                            <h3>El Mejor Cuidado<br>
+                                Para Ti</h3>
+                            <p>ofrecemos servicios de atención médica integral de alta calidad, accesibles y centrados en el paciente,
+                                con el propósito de mejorar la salud y el bienestar de la comunidad</p>
+                            <ul>
+                                <li> <i class="flaticon-right"></i> Inovacion de servicios. </li>
+                                <li> <i class="flaticon-right"></i> Trabajo en equipos y Responsabilidad Social.</li>
+                                <li> <i class="flaticon-right"></i> Trasparencia y etica en nuestros servicios. </li>
+                            </ul>
+                            <a href="#" class="boxed-btn3-white-2">Leer mas</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- welcome_docmed_area_end -->
+
+        <!-- offers_area_start -->
         <div class="our_department_area">
             <div class="container">
                 <div class="row">
@@ -175,9 +248,9 @@
                 </div>
             </div>
         </div>
-    <!-- offers_area_end -->
+        <!-- offers_area_end -->
 
-    <!-- testmonial_area_start -->
+        <!-- testmonial_area_start -->
         <div class="testmonial_area">
             <div class="testmonial_active owl-carousel">
                 <div class="single-testmonial testmonial_bg_1 overlay2">
@@ -239,9 +312,9 @@
                 </div>
             </div>
         </div>
-    <!-- testmonial_area_end -->
+        <!-- testmonial_area_end -->
 
-    <!-- business_expert_area_start  -->
+        <!-- business_expert_area_start  -->
         <div class="business_expert_area">
             <div class="business_tabs_area">
                 <div class="container">
@@ -340,10 +413,10 @@
                 </div>
             </div>
         </div>
-    <!-- business_expert_area_end  -->
+        <!-- business_expert_area_end  -->
 
 
-    <!-- expert_doctors_area_start -->
+        <!-- expert_doctors_area_start -->
         <div class="expert_doctors_area">
             <div class="container">
                 <div class="row">
@@ -415,7 +488,7 @@
                 </div>
             </div>
         </div>
-    <!-- expert_doctors_area_end -->
+        <!-- expert_doctors_area_end -->
 
         <!-- Emergency_contact start -->
         <div class="Emergency_contact">
@@ -446,98 +519,105 @@
                 </div>
             </div>
         </div>
-    <form id="test-form" class="white-popup-block mfp-hide">
-        <div class="popup_box ">
-            <div class="popup_inner">
-                <h3>Make an Appointment</h3>
-                <form action="#">
-                    <div class="row">
-                        <div class="col-xl-6">
-                            <input id="datepicker" placeholder="Pick date">
+        <!-- Emergency_contact end -->
+
+        <!-- footer start -->
+        <!-- footer end  -->
+        <!-- link that opens popup -->
+
+        <!-- Boton Agendar cita (#test-form  class="popup-with-form")-->
+        <form id="test-form" class="white-popup-block mfp-hide">
+            <div class="popup_box ">
+                <div class="popup_inner">
+                    <h3>Make an Appointment</h3>
+                    <form action="#">
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <input id="datepicker" placeholder="Pick date">
+                            </div>
+                            <div class="col-xl-6">
+                                <input id="datepicker2" placeholder="Suitable time">
+                            </div>
+                            <div class="col-xl-6">
+                                <select class="form-select wide" id="default-select" class="">
+                                    <option data-display="Select Department">Department</option>
+                                    <option value="1">Eye Care</option>
+                                    <option value="2">Physical Therapy</option>
+                                    <option value="3">Dental Care</option>
+                                </select>
+                            </div>
+                            <div class="col-xl-6">
+                                <select class="form-select wide" id="default-select" class="">
+                                    <option data-display="Doctors">Doctors</option>
+                                    <option value="1">Mirazul Alom</option>
+                                    <option value="2">Monzul Alom</option>
+                                    <option value="3">Azizul Isalm</option>
+                                </select>
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="text"  placeholder="Name">
+                            </div>
+                            <div class="col-xl-6">
+                                <input type="text"  placeholder="Phone no.">
+                            </div>
+                            <div class="col-xl-12">
+                                <input type="email"  placeholder="Email">
+                            </div>
+                            <div class="col-xl-12">
+                                <button type="submit" class="boxed-btn3">Confirm</button>
+                            </div>
                         </div>
-                        <div class="col-xl-6">
-                            <input id="datepicker2" placeholder="Suitable time">
-                        </div>
-                        <div class="col-xl-6">
-                            <select class="form-select wide" id="default-select" class="">
-                                <option data-display="Select Department">Department</option>
-                                <option value="1">2</option>
-                                <option value="2">3</option>
-                                <option value="3">4</option>
-                            </select>
-                        </div>
-                        <div class="col-xl-6">
-                            <select class="form-select wide" id="default-select" class="">
-                                <option data-display="Doctors">Doctors</option>
-                                <option value="1">2</option>
-                                <option value="2">3</option>
-                                <option value="3">4</option>
-                            </select>
-                        </div>
-                        <div class="col-xl-6">
-                            <input type="text"  placeholder="Name">
-                        </div>
-                        <div class="col-xl-6">
-                            <input type="text"  placeholder="Phone no.">
-                        </div>
-                        <div class="col-xl-12">
-                            <input type="email"  placeholder="Email">
-                        </div>
-                        <div class="col-xl-12">
-                            <button type="submit" class="boxed-btn3">Confirm</button>
-                        </div>
-                    </div>
-                </form>
+                    </form>
+                </div>
             </div>
-        </div>
-    </form>
-    <!-- form itself end -->
+        </form>
+        <!-- form itself end -->
 
-    <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/gijgo.min.js"></script>
-    <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
+        <!-- JS here -->
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/ajax-form.js"></script>
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/scrollIt.js"></script>
+        <script src="js/jquery.scrollUp.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/nice-select.min.js"></script>
+        <script src="js/jquery.slicknav.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/gijgo.min.js"></script>
+        <!--contact js-->
+        <script src="js/contact.js"></script>
+        <script src="js/jquery.ajaxchimp.min.js"></script>
+        <script src="js/jquery.form.js"></script>
+        <script src="js/jquery.validate.min.js"></script>
+        <script src="js/mail-script.js"></script>
 
-    <script src="js/main.js"></script>
-    <script>
-        $('#datepicker').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-caret-down"></span>'
-            }
-        });
-        $('#datepicker2').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-caret-down"></span>'
-            }
+        <script src="js/main.js"></script>
+        <script>
+                                    $('#datepicker').datepicker({
+                                        iconsLibrary: 'fontawesome',
+                                        icons: {
+                                            rightIcon: '<span class="fa fa-caret-down"></span>'
+                                        }
+                                    });
+                                    $('#datepicker2').datepicker({
+                                        iconsLibrary: 'fontawesome',
+                                        icons: {
+                                            rightIcon: '<span class="fa fa-caret-down"></span>'
+                                        }
 
-        });
-    $(document).ready(function() {
-    $('.js-example-basic-multiple').select2();
-});
-    </script>
-</body>
+                                    });
+                                    $(document).ready(function () {
+                                        $('.js-example-basic-multiple').select2();
+                                    });
+        </script>
+    </body>
 
 </html>
