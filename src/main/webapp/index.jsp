@@ -91,8 +91,8 @@
                                     </nav>
                                 </div>
                             </div>
-                            
-                            
+
+
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
@@ -112,106 +112,14 @@
 
         <main>
 
-            <iframe name="Contenido" width="100%" height="740px" style="border: 0" src="Inicio.jsp" ></iframe>
+            <iframe
+                name="Contenido"
+                width="100%"
+                height="733px"
+                style="border: 0"
+                src="Inicio.jsp"></iframe>
 
         </main>
-        
-        
-        <footer class="footer">
-            <div class="footer_top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-md-6 col-lg-4">
-                            <div class="footer_widget">
-                                <div class="footer_logo">
-                                    <a href="#">
-                                        <img src="img/footer_logo.png" alt="">
-                                    </a>
-                                </div>
-                                <p>
-                                    La salud y el bienestar de las personas es lo primero
-                                </p>
-                                <div class="socail_links">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="ti-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="ti-twitter-alt"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa fa-instagram"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
 
-                            </div>
-                        </div>
-                        <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Servicios
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Odontología</a></li>
-                                    <li><a href="#">Diacnosticos y tratamientos</a></li>
-                                    <li><a href="#">Limpieza de piel</a></li>
-                                    <li><a href="#">Cirugia plastic</a></li>
-                                    <li><a href="#">psicología</a></li>
-                                </ul>
-
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-md-6 col-lg-2">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Otros links
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Acerca De</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Acerca De</a></li>
-                                    <li><a href="#"> Conctactos</a></li>
-                                    <li><a href="#"> Citas</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-6 col-lg-3">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Address
-                                </h3>
-                                <p>
-                                    Av.Miguel Grau - 1152. callao<br>
-                                    +51 981 214 866 <br>
-                                    dOC21216@ClinicaPe.com
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copy-right_text">
-                <div class="container">
-                    <div class="footer_border"></div>
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <p class="copy_right text-center">
-                                Copyright &copy;<script>document.write(new Date().getFullYear())
-                                </script>
-                                Todos los derechos reservados | Nuestros servicios fueron hechos con <strong>♥</strong> 
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        
     </body>
 </html>
